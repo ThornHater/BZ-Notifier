@@ -21,4 +21,4 @@ Bazaar Notifier is a mod that tracks profitable Bazaar flips and checks to make 
 - To install, make sure you have Forge for Minecraft 1.8.9. Just put the mod in the mods folder.
 
 REMEMBER: Don't download from a random source, it is probably ratted. If you're here, you're at the right place.
-DOWNLOAD LINK: 
+DOWNLOAD LINK: https://github.com/ThornHater/BZ-Notifier/releases
